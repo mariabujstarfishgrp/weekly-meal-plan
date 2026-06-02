@@ -39,8 +39,8 @@ Two women eating lunch and dinner Monday through Thursday.
 - Seafood must fall on **Monday or Tuesday**
 
 ### Vegetables
-- Seasonal only
-- **Zero-waste rule** — every vegetable appears in at least 2 meals
+- Seasonal food is preferred
+- **Zero-waste rule** — I want all vegetables purchased on the grocery list used up by Thursday dinner
 - Amounts specified in every cell of the plan
 
 ### Featured recipe
