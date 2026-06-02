@@ -45,8 +45,8 @@ Two women eating lunch and dinner Monday through Thursday.
 
 ### Featured recipe
 - One recipe sourced each week from [playswellwithbutter.com/weeknight-recipes](https://playswellwithbutter.com/occasion/weeknight-recipes/)
-- Must fit constraints: no pasta, no noodles, no taco shells
-- Good formats: bowls, sheet pan, stir-fry, skillet, curry
+- Must fit constraints: no pasta, no noodles, no taco shells, no soy
+- Good formats: bowls, sheet pan, stir-fry, skillet, curry, braises
 
 ### Macros
 - Daily target: **126g protein / 58g fat / 120g carbs**
